@@ -1,8 +1,8 @@
-package principal;
+package menu;
 
 import java.util.Scanner;
 
-public class menu {
+public class Menu {
     // Objeto Scanner para tomar la entrada del usuario
     private static Scanner teclado = new Scanner(System.in);
 
